@@ -1,7 +1,7 @@
 package com.h2;
 
 import java.text.DecimalFormat;
-import com.h2.Utilities;
+
 
 public class MortgageCalculator {
     private long loanAmount;
